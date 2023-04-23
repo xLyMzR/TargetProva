@@ -1,0 +1,22 @@
+Podemos utilizar as fórmulas de distância em função tempo para calcular a posição do carro e do caminhão quando eles se encontram:
+
+Distância percorrida pelo carro: d1 = v1 * t,
+onde v1 é a velocidade do carro e t é o tempo que leva para eles se encontrarem.
+Distância percorrida pelo caminhão: d2 = v2 * t, onde v2 é a velocidade do caminhão e t é o mesmo tempo que antes.
+Distância total percorrida: d = d1 + d2.
+
+Portanto o tempo que levam para se encontrar é:
+t = d / (v1 + v2)
+t = 100 km / (110 km/h + 80 km/h)
+t = 0,5263 horas
+
+Distâncias percorridas pelo carro e pelo caminhão:
+
+d1 = v1 * t = 110 km/h * 0,5263 h = 57,9 km
+d2 = v2 * t = 80 km/h * 0,5263 h = 42,1 km
+
+Distância do carro e do caminhão para Ribeirão Preto:
+
+Distância do carro para Ribeirão Preto: 100 km - d1 = 100 km - 57,9 km = 42,1 km.
+Distância do caminhão para Ribeirão Preto: d2 = 42,1 km.
+Logo, eles se encontram exatamente a 60,9 km de Ribeirão Preto e a 39,1 km de Franca, que é o ponto médio entre as duas cidades.
